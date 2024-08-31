@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    link: "https://github.com/artechspirit"
 
 # Features
 features:
