@@ -16,7 +16,8 @@
     "project-setup": "node ./scripts/projectSetup.js",
     "theme-setup": "node ./scripts/themeSetup.js",
     "update-theme": "node ./scripts/themeUpdate.js",
-    "format": "prettier -w ."
+    "format": "prettier -w .",
+    "deploy": "gh-pages -d public"
   },
   "devDependencies": {
     "@tailwindcss/forms": "^0.5.7",
