@@ -123,9 +123,6 @@ export const store = configureStore({
   middleware: (getDefaultMiddleware) =>
     getDefaultMiddleware().concat(fakeStoreApi.middleware),
 });
-
-export const { Provider } = require('react-redux');
-export const { useSelector, useDispatch } = require('react-redux');
 ```
 
 Provide the store in `app/layout.js`:
