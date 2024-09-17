@@ -7,7 +7,6 @@ description: "This is meta description"
 # save as draft
 draft: false
 ---
-
 #### Responsibility of Contributors
 
 Contributors play a crucial role in the success and integrity of any collaborative project, whether in a professional setting, academic research, or creative endeavor. Their primary responsibility is to produce high-quality, timely work that meets the project's standards and objectives. This involves adhering to deadlines, maintaining open communication with team members, and providing constructive feedback. Contributors should also respect the expertise and contributions of others, fostering a collaborative environment where diverse ideas can thrive. By fulfilling these responsibilities, contributors help ensure that the project progresses smoothly and achieves its intended goals.

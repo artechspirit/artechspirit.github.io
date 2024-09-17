@@ -6,7 +6,7 @@
     <div class="container">
       <div class="row">
         <div class="md:col-10 lg:col-6 mx-auto">
-          <form action="{{ site.Params.contact_form_action }}" method="POST">
+          <form id="contact-form" action="https://formspree.io/f/mnnayykz" method="POST">
             <div class="mb-6">
               <label for="name" class="form-label">
                 Full Name <span class="text-red-500">*</span>
@@ -15,7 +15,7 @@
                 id="name"
                 name="name"
                 class="form-input"
-                placeholder="John Doe"
+                placeholder="Your Name"
                 type="text" />
             </div>
             <div class="mb-6">
@@ -26,7 +26,7 @@
                 id="email"
                 name="email"
                 class="form-input"
-                placeholder="john.doe@email.com"
+                placeholder="Your Email"
                 type="email" />
             </div>
             <div class="mb-6">
@@ -37,7 +37,7 @@
                 id="message"
                 name="message"
                 class="form-input"
-                placeholder="Message goes here..."
+                placeholder="Your Message"
                 rows="8"></textarea>
             </div>
             <button type="submit" class="btn btn-primary">Submit</button>

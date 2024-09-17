@@ -3,3 +3,48 @@
   height: 180px;
   object-fit: cover;
 }
+
+.announcement {
+  text-align: center;
+}
+
+.preloader {
+  position: fixed;
+  z-index: 99999;
+  width: 100vw;
+  height: 100vh;
+  background: white;
+
+    img {
+      display: flex;
+      justify-content: center;
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%);
+    }
+}
+
+.btn {
+  border-radius: 0;
+}
+
+.social-icons {
+  li {
+    a {
+      border-radius: 0;
+    }
+  }
+}
+
+.highlight {
+  &>pre {
+    border-radius: 0;
+    padding-left: 20px;
+    padding-bottom: 15px;
+
+    code {
+      padding: 0;
+    }
+  }
+}

@@ -32,8 +32,8 @@ copyright = "© 2024 Beta Priyoko as [Artechspirit](https://github.com/artechspi
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
 [preloader]
-enable = false
-preloader = "" # use jpg, png, svg or gif format.
+enable = true
+preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 
 # Navigation button
 [navigation_button]
@@ -55,9 +55,9 @@ show_categories = true
 # announcement
 # announcement module: https://github.com/gethugothemes/hugo-modules/tree/master/components/announcement
 [announcement]
-enable = false
-expire_days = 7
-content = "You must replace the **baseURL** in **hugo.toml** file when deploying, you can manage this announcement from the **params.toml** file."
+enable = true
+expire_days = 30
+content = "If you want to request blogpost topics, feel free to inbox my instagram @adabjawa. Thankyou!"
 
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
@@ -80,7 +80,7 @@ mastodon = "" # Your verification code
 # cookies
 # cookies module: https://github.com/gethugothemes/hugo-modules/tree/master/components/cookie-consent
 [cookies]
-enable = false
+enable = true
 expire_days = 60
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
 button = "I Accept"
