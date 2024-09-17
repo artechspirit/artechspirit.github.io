@@ -1,6 +1,6 @@
 ---
 title: "The Most Effective and Simple Way to Implement Redux Toolkit Query in Next.js with CRUD Operations"
-meta_title: "The Most Effective and Simple Way to Implement Redux Toolkit Query in Next.js with CRUD Operations"
+meta_title: "Blog | The Most Effective and Simple Way to Implement Redux Toolkit Query in Next.js with CRUD Operations"
 description: "Redux Toolkit Query (RTK Query) is an advanced data fetching and caching tool that integrates seamlessly with Redux, making it a great choice for managing server state. Combined with Next.js’s App Router and Tailwind CSS, you can create a robust, scalable, and beautifully styled application with minimal effort."
 date: 2024-09-15
 image: "/images/blog-post-2.webp"

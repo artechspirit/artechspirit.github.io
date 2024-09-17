@@ -6,7 +6,7 @@
           {{ $image:= .Params.image }}
           {{ if $image }}
             <div class="mb-10">
-              {{ partial "image" (dict "Src" $image "Context" .Page "Alt" .Title "Class" "w-full rounded") }}
+              {{ partial "image" (dict "Src" $image "Context" .Page "Alt" .Title "Class" "w-full") }}
             </div>
           {{ end }}
           <h1 class="h2 mb-4">
@@ -79,7 +79,7 @@
       {{ $related := (where site.RegularPages "Section" "in" site.Params.mainSections) | intersect (where site.RegularPages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) }}
       {{ $related = $related | shuffle | first 3 }}
       {{ with $related }}
-        <div class="section pb-0">
+        <div class="section pb-0 max-w-[95%] mx-auto">
           <h2 class="h3 mb-12">{{ T "related_posts" }}</h2>
           <div class="row">
             {{ range . }}

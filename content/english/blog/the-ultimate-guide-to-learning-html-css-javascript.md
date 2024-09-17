@@ -1,6 +1,6 @@
 ---
 title: "The Ultimate Guide to Learning HTML, CSS, and JavaScript (ES2015+)"
-meta_title: "Learn HTML, CSS, and JavaScript (ES2015+) with FreeCodeCamp - Ultimate Guide"
+meta_title: "Blog | Learn HTML, CSS, and JavaScript (ES2015+) with FreeCodeCamp - Ultimate Guide"
 description: "Discover the ultimate guide to mastering HTML, CSS, and JavaScript (ES2015+) with comprehensive tutorials and video resources from FreeCodeCamp. Build a strong foundation in web development with practical projects and expert guidance."
 date: 2024-09-01T10:04:12.159Z
 image: "/images/image-placeholder.png"
