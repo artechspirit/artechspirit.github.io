@@ -44,7 +44,7 @@
             {{/*  {{ partial "toc.html" (dict "Class" "blog" "Collapsed" false "TableOfContents" .TableOfContents ) }}  */}}
             {{ .Content }}
           </div>
-          <div class="row items-start justify-between">
+          <div class="row single-blog items-start justify-between">
             {{ $tags:= .Params.tags }}
             {{ if $tags }}
               <div class="lg:col-5 mb-10 flex items-center lg:mb-0">
@@ -62,7 +62,7 @@
                 </ul>
               </div>
             {{ end }}
-            <div class="lg:col-4 flex items-center">
+            <div class="lg:col-4 flex single-blog-share items-center">
               {{ partial "social-share" (dict "Context" . "Class" "share-icons" "Title" (T "share") "Whatsapp" false "Telegram" false "Linkedin" false "Pinterest" false "Tumblr" false "Vk" false) }}
             </div>
           </div>
