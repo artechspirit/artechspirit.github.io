@@ -1,7 +1,7 @@
 ---
 title: "Hey, I am Beta Priyoko!"
-meta_title: "About"
-description: "this is meta description"
+meta_title: "About | Artechspirit"
+description: "A Software Engineer based in Yogyakarta, Indonesia. With extensive experience in web technologies, I specialize in JavaScript and various frameworks and libraries such as Next.js, React Native, and Node.js. I also have expertise in using HTML, CSS, and Tailwind to create responsive and engaging user interfaces."
 image: "/images/avatar.png"
 draft: false
 ---
