@@ -1,6 +1,6 @@
 ---
 title: "How to Build a Clean, Secure CRUD API with MongoDB, Mongoose, and Express.js"
-meta_title: "Blog | Create a Clean & Secure CRUD API with MongoDB, Mongoose, and Express.js"
+meta_title: "Create a Clean & Secure CRUD API with MongoDB, Mongoose, and Express.js"
 description: "Learn how to build a scalable and secure CRUD API from scratch using MongoDB, Mongoose, and Express.js. This guide covers user authentication with JWT, login features with middleware, and a clean, maintainable folder structure that follows the DRY principle."
 date: 2024-09-17
 image: "/images/express-mongo-node.webp"

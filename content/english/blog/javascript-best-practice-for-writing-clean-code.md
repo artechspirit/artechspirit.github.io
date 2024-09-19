@@ -1,6 +1,6 @@
 ---
 title: "JavaScript Best Practices for Writing Clean Code"
-meta_title: "Blog | JavaScript Best Practices for Writing Clean, Maintainable Code"
+meta_title: "JavaScript Best Practices for Writing Clean, Maintainable Code"
 description: "Master JavaScript best practices for writing clean, maintainable, and efficient code. Learn essential coding techniques to improve readability, reduce errors, and enhance your JavaScript projects."
 date: 2024-09-17
 image: "/images/banner-best-practice-js.png"

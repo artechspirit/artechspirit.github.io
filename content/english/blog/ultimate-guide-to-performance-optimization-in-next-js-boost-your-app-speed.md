@@ -1,6 +1,6 @@
 ---
 title: "Ultimate Guide to Performance Optimization in Next.js: Boost Your App Speed"
-meta_title: "Blog | Next.js Performance Optimization: Boost Speed with SSG, SSR, SWR, and More"
+meta_title: "Next.js Performance Optimization: Boost Speed with SSG, SSR, SWR, and More"
 description: "Learn how to build a scalable and secure CRUD API from scratch using MongoDB, Mongoose, and Express.js. This guide covers user authentication with JWT, login features with middleware, and a clean, maintainable folder structure that follows the DRY principle."
 date: 2024-09-18
 image: "/images/next-js-optimization.png"
